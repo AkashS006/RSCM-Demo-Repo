@@ -1,0 +1,8 @@
+{
+  "version": "v1.0.1",
+  "supplier": "Minth",
+  "target_ecu": "RSCM",
+  "date": "2025-05-16",
+  "fmu_filename": "rscm_shutter_model2.fmu",
+  "description": "Checking Supplier access level."
+}
