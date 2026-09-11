@@ -1,0 +1,8 @@
+{
+  "version": "v1.0.0",
+  "supplier": "Brose Automotive",
+  "target_ecu": "RSCM",
+  "date": "2025-05-16",
+  "fmu_filename": "rscm_shutter_model.fmu",
+  "description": "Baseline Shutter Controller Model with stall detection & thermal rollback."
+}
